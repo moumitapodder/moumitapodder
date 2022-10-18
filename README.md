@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm moumita podder</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://i.gifer.com/GYny.gif" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://github.com/moumitapodder/img/blob/main/O.gif" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **web development**
 
